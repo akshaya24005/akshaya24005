@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **pandas,sklearn,tensorflow,numpy,figma**
 
-- 📫 How to reach me **vitharun8@gmail.com**
+- 📫 How to reach me **akshayaiyappan24@gmail.com**
 
 
 
