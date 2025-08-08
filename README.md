@@ -33,49 +33,6 @@
 
 ---
 
-## 📂 Projects
-
-### 1️⃣ Enhancing Safety in Diverse Landscapes through IoT  
-📅 Dec 2023 – Present  
-- 🐍 AI-powered IoT safety system to detect reptiles & insects.  
-- 📡 Smart detection with multiple sensors for improved accuracy.  
-- 🚨 Automated emergency alerts with real-time location tracking.  
-
-### 2️⃣ Healthcare Scoring System  
-📅 Jan 2025  
-- 🖥 Built a **real-time health scoring platform** using HTML, CSS.  
-- 📊 Dynamic visualization tools for clear risk-level insights.  
-- ⚡ Optimized performance across devices for smooth UX.  
-
----
-
-## 💼 Experience
-
-### 💂‍♀️ Core Team Member – NCC Club  
-📅 Sep 2022 – Feb 2025  
-- 🏅 Trained & mentored **100+ cadets** in discipline, teamwork & leadership.  
-- 📢 Organized 10+ awareness programs on **Drug Prevention, Road Safety, Khadi Mohotsav**, etc.  
-
-### 🖥 Frontend Developer – Jorim Technology Pvt Ltd  
-📅 Jan 2025 – Feb 2025  
-- 🚀 Improved UI responsiveness by **70%** in healthcare web apps.  
-- 🔗 Integrated REST APIs for **real-time data updates**.  
-- 🎯 Enhanced accessibility & navigation for better UX.  
-
----
-
-## 📚 Relevant Coursework
-`Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Machine Learning` • `Computer Networks` • `NLP`
-
----
-
-## 🏆 Achievements
-- 📜 Completed certifications on **NPTEL, Coursera, Udemy, IIT Bombay Spoken Tutorial, Learnathon**.  
-- 🎖 Earned **NCC B & C Certifications**.  
-- 🤝 Volunteered in **5+ IEEE & NDLI events** for event organization.  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaya24005&show_icons=true&theme=tokyonight" height="150"/>
